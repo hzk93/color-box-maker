@@ -1,0 +1,21 @@
+.NewBoxForm-newline {
+    white-space: pre-line;
+  }
+
+label {
+    display: flex;
+    /* justify-content: flex-start; */
+    height: 30px;
+    align-items: center;
+}
+
+button{
+    display:flex;
+    align-items: center;
+    height: 30px;
+    margin-left:40px;
+    
+}
+
+
+
